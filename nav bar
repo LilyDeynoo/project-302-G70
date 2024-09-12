@@ -1,0 +1,26 @@
+<div class="Frame74" style="width: 1020px; height: 80px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+  <div class="KfhNavBar" style="width: 1020px; height: 80px; position: relative; background: white">
+    <img class="KekeliNew1" style="width: 266px; height: 266px; left: 23px; top: 186px; position: absolute" src="https://via.placeholder.com/266x266" />
+    <img class="KekeliNew1" style="width: 233px; height: 105px; left: 43px; top: 0px; position: absolute" src="https://via.placeholder.com/233x105" />
+    <div style="width: 4px; height: 4px; left: 1450px; top: 41px; position: absolute; color: white; font-size: 4px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">0</div>
+    <div class="Frame1" style="height: 39px; padding-top: 10px; padding-bottom: 11px; padding-left: 10px; padding-right: 7px; left: 442px; top: 28px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <div class="Home" style="width: 51px; height: 18px; text-align: center; color: black; font-size: 14px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Home</div>
+    </div>
+    <div class="Frame2" style="width: 73px; height: 39px; padding-top: 10px; padding-bottom: 11px; left: 536px; top: 30px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <div class="AboutUs" style="width: 82px; height: 18px; text-align: center; color: black; font-size: 14px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">About Us</div>
+    </div>
+    <div class="Frame6" style="width: 73px; height: 39px; padding-top: 10px; padding-bottom: 11px; left: 826px; top: 27px; position: absolute; background: #047507; justify-content: center; align-items: center; display: inline-flex">
+      <div class="SignUp" style="width: 82px; height: 18px; text-align: center; color: white; font-size: 13px; font-family: Quicksand; font-weight: 400; word-wrap: break-word">Sign Up</div>
+    </div>
+    <div class="Frame7" style="width: 34px; height: 26px; left: 908px; top: 37px; position: absolute; background: white">
+      <div class="Vector" style="width: 16px; height: 17px; left: 8px; top: 7px; position: absolute; background: #047507"></div>
+      <div class="Ellipse1" style="width: 5.17px; height: 4.79px; left: 24px; top: 2px; position: absolute; background: #047507; border-radius: 9999px"></div>
+    </div>
+    <div class="Frame3" style="padding-top: 10px; padding-bottom: 13px; padding-right: 6px; left: 726px; top: 29px; position: absolute; background: white; justify-content: flex-start; align-items: center; display: inline-flex">
+      <div class="ContactUs" style="width: 82px; height: 16px; text-align: center; color: black; font-size: 14px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Contact Us</div>
+    </div>
+    <div class="Frame5" style="padding-top: 10px; padding-bottom: 13px; left: 640px; top: 27px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+      <div class="Store" style="width: 59px; height: 16px; text-align: center; color: black; font-size: 14px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Store</div>
+    </div>
+  </div>
+</div>
