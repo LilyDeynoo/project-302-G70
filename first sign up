@@ -1,0 +1,30 @@
+<div class="SignUp" style="width: 1020px; height: 591px; position: relative; background: #0D2130">
+  <div class="Frame52" style="padding-top: 18px; padding-left: 45px; padding-right: 30px; left: 384px; top: 152px; position: absolute; justify-content: flex-end; align-items: center; display: inline-flex">
+    <div class="SignUp" style="width: 203px; height: 58px; color: white; font-size: 48px; font-family: Microsoft Sans Serif; font-weight: 400; word-wrap: break-word">Sign Up</div>
+  </div>
+  <div class="Frame58" style="width: 327px; height: 36px; padding-left: 97px; padding-right: 97px; padding-top: 9px; padding-bottom: 9px; left: 350px; top: 403px; position: absolute; border: 1px #58758C solid; justify-content: center; align-items: center; display: inline-flex">
+    <div class="SignUpWithEmail" style="width: 133px; height: 18px; color: white; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">Sign up with email</div>
+  </div>
+  <div class="Frame55" style="height: 35px; padding-top: 6px; padding-bottom: 6px; padding-left: 9px; padding-right: 65px; left: 349px; top: 279px; position: absolute; background: white; justify-content: flex-start; align-items: flex-start; gap: 56px; display: inline-flex">
+    <img class="LogoGoogleGIcon1" style="width: 32px; height: 23px" src="https://via.placeholder.com/32x23" />
+    <div class="SignUpWithGoogle" style="width: 165px; height: 23px; color: black; font-size: 18px; font-family: Arial; font-weight: 400; word-wrap: break-word">Sign up with Google</div>
+  </div>
+  <div class="Frame56" style="height: 35px; padding-top: 6px; padding-bottom: 6px; padding-left: 13px; padding-right: 45px; left: 349px; top: 322px; position: absolute; background: #1878F2; justify-content: flex-start; align-items: flex-start; gap: 46px; display: inline-flex">
+    <div class="Download1" style="width: 24px; height: 23px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="Vector" style="width: 24px; height: 22.86px; background: white"></div>
+      <div class="Vector" style="width: 10.27px; height: 18.51px; background: #1877F2"></div>
+    </div>
+    <div class="SignUpWithFacebook" style="width: 199px; height: 23px; color: white; font-size: 18px; font-family: Arial; font-weight: 400; word-wrap: break-word">Sign up with Facebook</div>
+  </div>
+  <div class="Frame53" style="height: 29px; left: 398px; top: 242px; position: absolute; justify-content: flex-end; align-items: center; display: inline-flex">
+    <div class="AlreadyAMember" style="width: 228px; height: 29px; color: white; font-size: 20px; font-family: Arial; font-weight: 400; word-wrap: break-word">Already a member?</div>
+  </div>
+  <div class="Frame54" style="width: 66px; height: 29px; left: 581px; top: 242px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="LogIn" style="width: 66px; height: 29px; color: #58758C; font-size: 20px; font-family: Arial; font-weight: 400; word-wrap: break-word">Log In</div>
+  </div>
+  <div class="Line5" style="width: 141px; height: 0px; left: 535px; top: 389px; position: absolute; border: 1px #58758C solid"></div>
+  <div class="Line6" style="width: 141px; height: 0px; left: 349px; top: 389px; position: absolute; border: 1px #58758C solid"></div>
+  <div class="Frame57" style="height: 27px; padding-top: 4px; padding-bottom: 5px; padding-left: 11px; padding-right: 4px; left: 496px; top: 372px; position: absolute; justify-content: flex-end; align-items: center; display: inline-flex">
+    <div class="Or" style="width: 20px; height: 18px; color: white; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">or</div>
+  </div>
+</div>
