@@ -1,0 +1,48 @@
+<div class="SignUp" style="width: 1020px; height: 701px; position: relative; background: #0D2130">
+  <div class="Frame52" style="padding-top: 18px; padding-left: 45px; padding-right: 30px; left: 384px; top: 152px; position: absolute; justify-content: flex-end; align-items: center; display: inline-flex">
+    <div class="SignUp" style="width: 203px; height: 58px; color: white; font-size: 48px; font-family: Microsoft Sans Serif; font-weight: 400; word-wrap: break-word">Sign Up</div>
+  </div>
+  <div class="Frame58" style="height: 36px; padding-top: 9px; padding-bottom: 9px; left: 493px; top: 611px; position: absolute; justify-content: flex-end; align-items: center; display: inline-flex">
+    <div class="SignUpWith" style="width: 96px; height: 18px; color: white; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">sign up with </div>
+  </div>
+  <div class="Frame60" style="width: 336px; height: 73px; left: 353px; top: 400px; position: absolute; background: white; border-radius: 6px; overflow: hidden; border: 1px #58758C solid">
+    <div class="IMNotARebot" style="width: 106px; height: 18px; left: 60px; top: 29px; position: absolute; color: black; font-size: 16px; font-family: Arial; font-weight: 400; word-wrap: break-word">I’m not a rebot</div>
+    <div class="Frame61" style="width: 35px; height: 25px; left: 12px; top: 24px; position: absolute; background: white; border: 1px rgba(128.56, 124.28, 124.28, 0.94) solid"></div>
+    <div class="GoogleRecaptchaOfficial1" style="width: 52px; height: 44px; left: 261px; top: 7px; position: absolute">
+      <div class="Vector" style="width: 31.10px; height: 15.32px; left: 11.82px; top: 0px; position: absolute; background: #1C3AA9"></div>
+      <div class="Vector" style="width: 17.26px; height: 27.61px; left: 8.25px; top: 0px; position: absolute; background: #4285F4"></div>
+      <div class="Vector" style="width: 31.10px; height: 15.32px; left: 8.25px; top: 15.36px; position: absolute; background: #ABABAB"></div>
+      <div class="Vector" style="width: 52px; height: 7.24px; left: 0px; top: 36.63px; position: absolute; background: #A6A6A6"></div>
+    </div>
+    <div class="Frame62" style="height: 17px; padding-top: 4px; padding-bottom: 5px; padding-left: 12px; padding-right: 17px; left: 248px; top: 49px; position: absolute; justify-content: flex-start; align-items: center; display: inline-flex">
+      <div class="PrivacyTerms" style="width: 56px; height: 8px"><span style="color: #ABABAB; font-size: 7px; font-family: Inter; font-weight: 400; word-wrap: break-word">Privacy</span><span style="color: #ABABAB; font-size: 7px; font-family: Inter; font-weight: 400; word-wrap: break-word"> - </span><span style="color: #ABABAB; font-size: 7px; font-family: Inter; font-weight: 400; word-wrap: break-word">Terms</span></div>
+    </div>
+  </div>
+  <div class="Frame61" style="width: 336px; height: 73px; padding-top: 25px; padding-bottom: 25px; left: 353px; top: 496px; position: absolute; background: #CCCCCC; border: 1px #58758C solid; justify-content: center; align-items: center; display: inline-flex">
+    <div class="SignUp" style="width: 82px; height: 23px; color: white; font-size: 20px; font-family: Arial; font-weight: 700; word-wrap: break-word">Sign Up</div>
+  </div>
+  <div class="Frame55" style="height: 23px; padding-left: 4px; left: 349px; top: 279px; position: absolute; background: #0D2130; justify-content: flex-end; align-items: center; display: inline-flex">
+    <div class="Email" style="width: 48px; height: 23px; color: #58758C; font-size: 16px; font-family: Microsoft Sans Serif; font-weight: 400; word-wrap: break-word">Email</div>
+  </div>
+  <img class="LogoGoogleGIcon1" style="width: 32px; height: 23px; left: 477px; top: 659px; position: absolute" src="https://via.placeholder.com/32x23" />
+  <div class="Frame56" style="width: 84px; height: 23px; left: 353px; top: 336px; position: absolute; background: #0D2130; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Password" style="width: 84px; height: 23px; color: #58758C; font-size: 18px; font-family: Microsoft Sans Serif; font-weight: 400; word-wrap: break-word">Password</div>
+  </div>
+  <div class="Download2" style="width: 25px; height: 23px; left: 531px; top: 659px; position: absolute">
+    <div class="Vector" style="width: 25px; height: 22.86px; left: 0px; top: 22.86px; position: absolute; background: #1877F2"></div>
+    <div class="Vector" style="width: 10.69px; height: 18.51px; left: 7.37px; top: 23px; position: absolute; background: white"></div>
+  </div>
+  <div class="Frame53" style="height: 29px; left: 398px; top: 242px; position: absolute; justify-content: flex-end; align-items: center; display: inline-flex">
+    <div class="AlreadyAMember" style="width: 228px; height: 29px; color: white; font-size: 20px; font-family: Arial; font-weight: 400; word-wrap: break-word">Already a member?</div>
+  </div>
+  <div class="Frame54" style="width: 66px; height: 29px; left: 581px; top: 242px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="LogIn" style="width: 66px; height: 29px; color: #58758C; font-size: 20px; font-family: Arial; font-weight: 400; word-wrap: break-word">Log In</div>
+  </div>
+  <div class="Line6" style="width: 108px; height: 0px; left: 353px; top: 629px; position: absolute; border: 1px #58758C solid"></div>
+  <div class="Line9" style="width: 108px; height: 0px; left: 583px; top: 629px; position: absolute; border: 1px #58758C solid"></div>
+  <div class="Line7" style="width: 336px; height: 0px; left: 353px; top: 316px; position: absolute; background: white; border: 1px #58758C solid"></div>
+  <div class="Line8" style="width: 336px; height: 0px; left: 353px; top: 380px; position: absolute; background: #D9D9D9; border: 1px #58758C solid"></div>
+  <div class="Frame57" style="width: 35px; padding-top: 6px; padding-bottom: 5px; padding-left: 11px; padding-right: 4px; left: 456px; top: 611px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Or" style="width: 20px; height: 25px; color: white; font-size: 20px; font-family: Arial; font-weight: 400; word-wrap: break-word">or</div>
+  </div>
+</div>
