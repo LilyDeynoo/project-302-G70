@@ -1,0 +1,122 @@
+<div class="ProductList" style="width: 1020px; height: 2468px; position: relative; background: white">
+  <div class="Frame28" style="width: 1020px; height: 433px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, rgba(0, 159, 245, 0.60) 0%, rgba(0, 159, 245, 0.60) 100%); border-top-left-radius: 600px; overflow: hidden">
+    <div class="Frame29" style="width: 201px; height: 80px; left: 120px; top: 63px; position: absolute; background: #FCFCFC; border-radius: 20px; overflow: hidden">
+      <div class="QualityProductsTheBestProductsAvailable" style="width: 128px; height: 103px; left: 66px; top: 9px; position: absolute; text-align: justify"><span style="color: black; font-size: 14px; font-family: Montserrat; font-weight: 900; word-wrap: break-word">Quality Products</span><span style="color: black; font-size: 14px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">
+      <br/></span><span style="color: black; font-size: 10px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">The best products available</span></div>
+      <img class="HandWithThumUp" style="width: 28px; height: 28px; left: 14px; top: 24px; position: absolute" src="https://via.placeholder.com/28x28" />
+    </div>
+    <div class="Frame30" style="width: 201px; padding-top: 19px; padding-bottom: 31px; padding-left: 15px; padding-right: 156px; left: 120px; top: 164px; position: absolute; background: #FCFCFC; border-radius: 20px; overflow: hidden; justify-content: flex-start; align-items: center; display: inline-flex">
+      <img class="Bonus" style="width: 30px; height: 30px" src="https://via.placeholder.com/30x30" />
+    </div>
+    <div class="SaveMoneyAffordablePricesEveryTime" style="width: 128px; height: 65px; left: 186px; top: 173px; position: absolute; text-align: justify"><span style="color: black; font-size: 14px; font-family: Montserrat; font-weight: 900; word-wrap: break-word">Save Money<br/></span><span style="color: black; font-size: 10px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Affordable prices every time</span></div>
+    <div class="Frame31" style="width: 201px; height: 80px; left: 120px; top: 265px; position: absolute; background: #FCFCFC; border-radius: 20px; overflow: hidden">
+      <div class="SaveTimeFastAndEfficientService" style="width: 128px; height: 65px; left: 67px; top: 9px; position: absolute; text-align: justify"><span style="color: black; font-size: 14px; font-family: Montserrat; font-weight: 900; word-wrap: break-word">Save Time</span><span style="color: black; font-size: 14px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">
+      <br/></span><span style="color: black; font-size: 10px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Fast and efficient service</span></div>
+      <img class="SaveMoney" style="width: 29px; height: 29px; left: 14px; top: 20px; position: absolute" src="https://via.placeholder.com/29x29" />
+    </div>
+    <div class="Frame32" style="padding-left: 24px; left: 364px; top: 63px; position: absolute; justify-content: flex-end; align-items: center; display: inline-flex">
+      <div class="ExperienceStressFreeDeliveryOfFrozenFoods" style="width: 469px; height: 194px"><span style="color: #FCFCFC; font-size: 35px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Experience <br/></span><span style="color: #FCFCFC; font-size: 48px; font-family: Montserrat; font-weight: 900; word-wrap: break-word">Stress-Free</span><span style="color: #FCFCFC; font-size: 35px; font-family: Montserrat; font-weight: 700; word-wrap: break-word"> <br/>Delivery of Frozen Foods</span></div>
+    </div>
+  </div>
+  <div class="Frame33" style="width: 379px; height: 230px; left: 120px; top: 543px; position: absolute; border-radius: 20px; overflow: hidden; border: 1px #828F9B solid">
+    <div class="Frame43" style="width: 165px; height: 197px; left: 9px; top: 17px; position: absolute; border: 1px solid; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+      <img class="Rectangle16" style="width: 165px; height: 197px" src="https://via.placeholder.com/165x197" />
+    </div>
+    <div class="Frame45" style="width: 135px; padding-top: 14px; padding-bottom: 4px; padding-left: 14px; padding-right: 14px; left: 201px; top: 164px; position: absolute; border-radius: 10px; overflow: hidden; border: 1px #07C90C solid; justify-content: center; align-items: center; display: inline-flex">
+      <div class="GetPrice" style="width: 107px; height: 32px; text-align: center; color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">GET PRICE</div>
+    </div>
+    <div class="Frame46" style="padding-top: 16px; padding-bottom: 8px; padding-right: 15px; left: 201px; top: 17px; position: absolute; border: 1px #FCFCFC solid; justify-content: flex-start; align-items: center; display: inline-flex">
+      <div class="PremierMackerelSalmon" style="width: 155px; height: 85px"><span style="color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Premier Mackerel<br/></span><span style="color: black; font-size: 20px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Salmon</span><span style="color: black; font-size: 24px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">       </span></div>
+    </div>
+  </div>
+  <div class="Frame35" style="width: 379px; height: 230px; left: 120px; top: 825px; position: absolute; border-radius: 20px; overflow: hidden; border: 1px #828F9B solid">
+    <div class="Frame43" style="width: 165px; height: 197px; left: 11px; top: 18px; position: absolute; border: 1px #009FF5 solid"></div>
+    <img class="Rectangle18" style="width: 165px; height: 200px; left: 11px; top: 15px; position: absolute" src="https://via.placeholder.com/165x200" />
+    <div class="Frame46" style="width: 170px; padding-top: 16px; padding-bottom: 8px; left: 201px; top: 18px; position: absolute; border: 1px #FCFCFC solid; justify-content: center; align-items: center; display: inline-flex">
+      <div class="MiekiChickenChickenThighsHolland" style="width: 170px; height: 85px"><span style="color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Mieki Chicken<br/></span><span style="color: black; font-size: 20px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Chicken Thighs       Holland</span></div>
+    </div>
+    <div class="Frame45" style="width: 135px; padding-top: 14px; padding-bottom: 4px; padding-left: 14px; padding-right: 14px; left: 200px; top: 165px; position: absolute; border-radius: 10px; overflow: hidden; border: 1px #07C90C solid; justify-content: center; align-items: center; display: inline-flex">
+      <div class="GetPrice" style="width: 107px; height: 32px; text-align: center; color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">GET PRICE</div>
+    </div>
+  </div>
+  <div class="Frame39" style="width: 379px; height: 230px; left: 121px; top: 1387px; position: absolute; border-radius: 20px; overflow: hidden; border: 1px #828F9B solid">
+    <div class="Frame43" style="width: 165px; height: 197px; left: 10px; top: 23px; position: absolute; border: 1px #009FF5 solid"></div>
+    <img class="Rectangle21" style="width: 167px; height: 197px; left: 8px; top: 23px; position: absolute" src="https://via.placeholder.com/167x197" />
+    <div class="Frame44" style="padding-top: 16px; padding-bottom: 8px; padding-right: 32px; left: 200px; top: 23px; position: absolute; border: 1px #FCFCFC solid; justify-content: flex-start; align-items: center; display: inline-flex">
+      <div class="NanaBeefBeefSinewsHolland" style="width: 138px; height: 85px"><span style="color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Nana Beef<br/></span><span style="color: black; font-size: 20px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Beef Sinews       Holland</span></div>
+    </div>
+    <div class="Frame45" style="width: 135px; padding-top: 14px; padding-bottom: 4px; padding-left: 14px; padding-right: 14px; left: 199px; top: 170px; position: absolute; border-radius: 10px; overflow: hidden; border: 1px #07C90C solid; justify-content: center; align-items: center; display: inline-flex">
+      <div class="GetPrice" style="width: 107px; height: 32px; text-align: center; color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">GET PRICE</div>
+    </div>
+  </div>
+  <div class="Frame37" style="width: 379px; height: 230px; left: 120px; top: 1106px; position: absolute; border-radius: 20px; overflow: hidden; border: 1px #828F9B solid">
+    <div class="Frame43" style="width: 165px; height: 197px; left: 9px; top: 18px; position: absolute; border: 1px solid; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+      <img class="Rectangle20" style="width: 165px; height: 197px" src="https://via.placeholder.com/165x197" />
+    </div>
+    <div class="Frame46" style="padding-top: 16px; padding-bottom: 8px; padding-right: 11px; left: 201px; top: 18px; position: absolute; border: 1px #FCFCFC solid; justify-content: flex-start; align-items: center; display: inline-flex">
+      <div class="NanaChickenChickenBackHolland" style="width: 159px; height: 85px"><span style="color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Nana chicken<br/></span><span style="color: black; font-size: 20px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Chicken Back
+      <br/>Holland</span></div>
+    </div>
+    <div class="Frame45" style="width: 135px; padding-top: 14px; padding-bottom: 4px; padding-left: 14px; padding-right: 14px; left: 200px; top: 165px; position: absolute; border-radius: 10px; overflow: hidden; border: 1px #07C90C solid; justify-content: center; align-items: center; display: inline-flex">
+      <div class="GetPrice" style="width: 107px; height: 32px; text-align: center; color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">GET PRICE</div>
+    </div>
+  </div>
+  <div class="Frame40" style="width: 379px; height: 230px; left: 122px; top: 1670px; position: absolute; border-radius: 20px; overflow: hidden; border: 1px #828F9B solid">
+    <div class="Frame43" style="width: 165px; height: 197px; left: 9px; top: 18px; position: absolute; border: 1px solid"></div>
+    <img class="Rectangle22" style="width: 167px; height: 195px; left: 7px; top: 18px; position: absolute" src="https://via.placeholder.com/167x195" />
+    <div class="Frame44" style="padding-top: 16px; padding-bottom: 8px; left: 199px; top: 20px; position: absolute; border: 1px #FCFCFC solid; justify-content: flex-end; align-items: center; display: inline-flex">
+      <div class="SearaChickenChickenFranks" style="width: 178px; height: 85px"><span style="color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Seara chicken<br/></span><span style="color: black; font-size: 20px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Chicken Franks</span></div>
+    </div>
+    <div class="Frame45" style="width: 135px; padding-top: 14px; padding-bottom: 4px; padding-left: 14px; padding-right: 14px; left: 202px; top: 165px; position: absolute; border-radius: 10px; overflow: hidden; border: 1px #07C90C solid; justify-content: center; align-items: center; display: inline-flex">
+      <div class="GetPrice" style="width: 107px; height: 32px; text-align: center; color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">GET PRICE</div>
+    </div>
+  </div>
+  <div class="Frame34" style="width: 379px; height: 230px; left: 523px; top: 543px; position: absolute; border-radius: 20px; overflow: hidden; border: 1px #828F9B solid">
+    <div class="Frame43" style="width: 165px; height: 197px; left: 9px; top: 18px; position: absolute; border: 1px solid"></div>
+    <img class="Rectangle17" style="width: 166px; height: 198px; left: 8px; top: 17px; position: absolute" src="https://via.placeholder.com/166x198" />
+    <div class="Frame44" style="padding-top: 16px; padding-bottom: 8px; left: 199px; top: 17px; position: absolute; border: 1px #FCFCFC solid; justify-content: flex-end; align-items: center; display: inline-flex">
+      <div class="JaguaChickenChickenThighBrazil" style="width: 175px; height: 85px"><span style="color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Jagua chicken<br/></span><span style="color: black; font-size: 20px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Chicken Thigh        Brazil</span></div>
+    </div>
+    <div class="Frame45" style="width: 135px; padding-top: 14px; padding-bottom: 4px; padding-left: 14px; padding-right: 14px; left: 199px; top: 165px; position: absolute; border-radius: 10px; overflow: hidden; border: 1px #07C90C solid; justify-content: center; align-items: center; display: inline-flex">
+      <div class="GetPrice" style="width: 107px; height: 32px; text-align: center; color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">GET PRICE</div>
+    </div>
+  </div>
+  <div class="Frame36" style="width: 379px; height: 230px; left: 521px; top: 825px; position: absolute; border-radius: 20px; overflow: hidden; border: 1px #828F9B solid">
+    <div class="Frame43" style="width: 165px; height: 197px; padding-top: 1px; padding-left: 1px; left: 9px; top: 18px; position: absolute; border: 1px solid; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+      <img class="Rectangle19" style="width: 164px; height: 196px" src="https://via.placeholder.com/164x196" />
+    </div>
+    <div class="Frame44" style="padding-top: 16px; padding-bottom: 8px; padding-right: 32px; left: 201px; top: 18px; position: absolute; border: 1px #FCFCFC solid; justify-content: flex-start; align-items: center; display: inline-flex">
+      <div class="AuroraChickenHolland" style="width: 138px; height: 85px"><span style="color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Aurora<br/></span><span style="color: black; font-size: 20px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Chicken       Holland</span></div>
+    </div>
+    <div class="Frame45" style="width: 135px; padding-top: 14px; padding-bottom: 4px; padding-left: 14px; padding-right: 14px; left: 201px; top: 165px; position: absolute; border-radius: 10px; overflow: hidden; border: 1px #07C90C solid; justify-content: center; align-items: center; display: inline-flex">
+      <div class="GetPrice" style="width: 107px; height: 32px; text-align: center; color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">GET PRICE</div>
+    </div>
+  </div>
+  <div class="Frame41" style="width: 379px; height: 230px; left: 523px; top: 1387px; position: absolute; border-radius: 20px; overflow: hidden; border: 1px #828F9B solid">
+    <img class="Frame43" style="width: 165px; height: 197px; left: 9px; top: 18px; position: absolute; border: 1px solid" src="https://via.placeholder.com/165x197" />
+    <div class="Frame44" style="padding-top: 16px; padding-bottom: 8px; padding-right: 32px; left: 199px; top: 15px; position: absolute; border: 1px #FCFCFC solid; justify-content: flex-start; align-items: center; display: inline-flex">
+      <div class="NanaBeefBeefFeetHolland" style="width: 138px; height: 85px"><span style="color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Nana Beef<br/></span><span style="color: black; font-size: 20px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Beef Feet       Holland</span></div>
+    </div>
+    <div class="Frame45" style="width: 135px; padding-top: 14px; padding-bottom: 4px; padding-left: 14px; padding-right: 14px; left: 199px; top: 165px; position: absolute; border-radius: 10px; overflow: hidden; border: 1px #07C90C solid; justify-content: center; align-items: center; display: inline-flex">
+      <div class="GetPrice" style="width: 107px; height: 32px; text-align: center; color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">GET PRICE</div>
+    </div>
+  </div>
+  <div class="Frame38" style="width: 379px; height: 230px; left: 523px; top: 1106px; position: absolute; border-radius: 20px; overflow: hidden; border: 1px #828F9B solid">
+    <img class="Frame43" style="width: 165px; height: 197px; left: 9px; top: 18px; position: absolute; border: 1px solid" src="https://via.placeholder.com/165x197" />
+    <div class="Frame44" style="padding-top: 16px; padding-bottom: 8px; left: 199px; top: 18px; position: absolute; border: 1px #FCFCFC solid; justify-content: flex-end; align-items: center; display: inline-flex">
+      <div class="BiernackiBeefFacemaskHolland" style="width: 206px; height: 85px"><span style="color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Biernacki<br/></span><span style="color: black; font-size: 20px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Beef FaceMask        Holland</span></div>
+    </div>
+    <div class="Frame45" style="width: 135px; padding-top: 14px; padding-bottom: 4px; padding-left: 14px; padding-right: 14px; left: 199px; top: 165px; position: absolute; border-radius: 10px; overflow: hidden; border: 1px #07C90C solid; justify-content: center; align-items: center; display: inline-flex">
+      <div class="GetPrice" style="width: 107px; height: 32px; text-align: center; color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">GET PRICE</div>
+    </div>
+  </div>
+  <div class="Frame42" style="width: 379px; height: 230px; left: 525px; top: 1668px; position: absolute; border-radius: 20px; overflow: hidden; border: 1px #828F9B solid">
+    <img class="Frame43" style="width: 165px; height: 197px; left: 9px; top: 18px; position: absolute; border: 1px solid" src="https://via.placeholder.com/165x197" />
+    <div class="Frame44" style="padding-top: 16px; padding-bottom: 8px; left: 199px; top: 18px; position: absolute; border: 1px #FCFCFC solid; justify-content: flex-end; align-items: center; display: inline-flex">
+      <div class="RemkesChickenThighHolland" style="width: 178px; height: 85px"><span style="color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Remkes<br/></span><span style="color: black; font-size: 20px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Chicken Thigh       Holland</span></div>
+    </div>
+    <div class="Frame45" style="width: 135px; padding-top: 14px; padding-bottom: 4px; padding-left: 14px; padding-right: 14px; left: 198px; top: 165px; position: absolute; border-radius: 10px; overflow: hidden; border: 1px #07C90C solid; justify-content: center; align-items: center; display: inline-flex">
+      <div class="GetPrice" style="width: 107px; height: 32px; text-align: center; color: black; font-size: 16px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">GET PRICE</div>
+    </div>
+  </div>
+</div>
