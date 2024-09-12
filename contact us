@@ -1,0 +1,22 @@
+<div class="ContactUs" style="width: 1020px; height: 905px; position: relative">
+  <div class="Rectangle9" style="width: 890px; height: 932px; left: 65px; top: 0px; position: absolute; background: linear-gradient(0deg, rgba(6, 80, 145, 0.10) 0%, rgba(6, 80, 145, 0.10) 100%)"></div>
+  <div class="Rectangle10" style="width: 65px; height: 1046px; left: 0px; top: 0px; position: absolute; background: #065091"></div>
+  <div class="Rectangle11" style="width: 65px; height: 1046px; left: 955px; top: 0px; position: absolute; background: #065091"></div>
+  <div class="ContactUs" style="width: 294px; height: 50px; left: 120px; top: 36px; position: absolute; color: #C1EFEE; font-size: 40px; font-family: Montserrat; font-weight: 800; word-wrap: break-word">CONTACT US.</div>
+  <div class="WeAreHereForYou" style="width: 174px; height: 20px; left: 118px; top: 87px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">We are here for you.</div>
+  <div class="GetOurLatestInformationAndAnnouncement" style="width: 580px; height: 40px; left: 118px; top: 120px; position: absolute; color: #C1EFEE; font-size: 14px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">GET OUR LATEST INFORMATION AND ANNOUNCEMENT</div>
+  <div class="KindlyCompleteTheFormBelow" style="width: 203px; height: 19px; left: 118px; top: 147px; position: absolute; color: #C1EFEE; font-size: 14px; font-family: Times New Roman; font-weight: 400; word-wrap: break-word">Kindly complete the form below.</div>
+  <div class="Frame9" style="width: 756px; height: 591px; left: 102px; top: 210px; position: absolute">
+    <div class="MessageBox" style="width: 612px; height: 90px; left: 71px; top: 331px; position: absolute; background: rgba(255, 255, 255, 0); border: 2px white solid"></div>
+    <div class="SecondNameBox" style="width: 190px; height: 40px; left: 282px; top: 241px; position: absolute; background: rgba(217, 217, 217, 0); border: 2px white solid"></div>
+    <div class="SecondNameBox" style="width: 190px; height: 40px; left: 493px; top: 241px; position: absolute; background: rgba(217, 217, 217, 0); border: 2px white solid"></div>
+    <div class="SecondNameBox" style="width: 190px; height: 40px; left: 492px; top: 446px; position: absolute; background: #C1EFEE; border: 2px solid"></div>
+    <div class="SecondNameBox" style="width: 190px; height: 40px; left: 71px; top: 241px; position: absolute; background: rgba(217, 217, 217, 0); border: 2px white solid"></div>
+    <div class="FirstName" style="width: 82px; height: 16px; left: 71px; top: 221px; position: absolute; color: #C1EFEE; font-size: 14px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">First Name</div>
+    <div class="Message" style="width: 82px; height: 16px; left: 71px; top: 305px; position: absolute; color: #C1EFEE; font-size: 14px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Message</div>
+    <div class="LastName" style="width: 82px; height: 16px; left: 282px; top: 220px; position: absolute; color: #C1EFEE; font-size: 14px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Last Name</div>
+    <div class="Email" style="width: 82px; height: 16px; left: 493px; top: 220px; position: absolute; color: #C1EFEE; font-size: 14px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Email*</div>
+    <div class="Send" style="width: 39px; height: 16px; left: 568px; top: 455px; position: absolute; color: #012436; font-size: 14px; font-family: Montserrat; font-weight: 300; word-wrap: break-word">Send</div>
+  </div>
+  <div class="ContactUsBox" style="width: 890px; height: 523px; left: 65px; top: 409px; position: absolute; opacity: 0.50; background: #012436"></div>
+</div>
